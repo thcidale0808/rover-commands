@@ -1,4 +1,4 @@
-# Document Wizard Report
+# Rover Commands CLI Tool
 
 It's a CLI tool that apply coordinate instructions on rovers and return the results
 
